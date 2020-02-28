@@ -6,7 +6,7 @@ namespace CSharpCarClient
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("***** C# Car Library Client App");
             // Make a sports car.
